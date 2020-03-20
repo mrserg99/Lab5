@@ -1,0 +1,1 @@
+String,Coordinates{Double,Long},Boolean,boolean,int,Double,WeaponType,Mood,Car{String}

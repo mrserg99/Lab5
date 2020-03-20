@@ -1,0 +1,4 @@
+show
+info
+execute_script D:\Stud\Прога\lab5\Lab5\src\script2.txt
+print_ascending

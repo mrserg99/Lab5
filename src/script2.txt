@@ -1,0 +1,4 @@
+show
+execute_script D:\\Stud\\Прога\\lab5\\Lab5\\src\\script1.txt
+info
+show
